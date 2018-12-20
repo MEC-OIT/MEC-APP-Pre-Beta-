@@ -1,0 +1,30 @@
+.dashboard_background{
+background-color:black;
+background: url("images/mec_library-janky-edit.jpg") no-repeat;
+background-size: cover;
+width: 100%;
+height: auto;
+background-position: center;
+}
+
+.menu-box-style{
+  border-radius: 3px;
+  margin:1vh;
+}
+
+.menu-box-image-style{
+  height: 35px;
+  width: auto;
+
+
+}
+
+.background-remove{
+  background-color: rgba(0, 0, 0, 0);
+  color:rgba(0, 0, 0, 1);
+}
+
+.nav-top{
+position: sticky;
+bottom:30;
+}

@@ -1,0 +1,48 @@
+.login_screen_background{
+  background: url("images/mec_library.jpg") no-repeat;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+#mec_logo{
+  position: relative;
+  bottom:10vh;
+}
+
+.transparent{
+  background:rgba(255,255,255, 0.5);
+  border:none;
+  color: black;
+}
+
+.transparent::placeholder{
+  color:#171d22;
+  font-size: 20px;
+}
+
+.fas{
+  color:#171d22;
+}
+
+.loginButton{
+  background-color: #E5C100;
+  border: none;
+  outline: none;
+  color: white;
+}
+
+.createAccount{
+  color: #E5C100;
+  padding: 25px;
+  position: relative;
+}
+
+.createAccountContainer{
+  margin:25px;
+}
+
+.loginContainer{
+  margin: 25px 0px;
+}

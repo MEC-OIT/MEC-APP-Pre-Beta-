@@ -1,0 +1,46 @@
+.splash_screen_background{
+  background: url("images/black_gradient.jpeg") no-repeat;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+}
+
+
+#mainLogo{
+border-radius: 10px;
+
+}
+
+#splash-title{
+  padding: 20px 0px;
+}
+
+#splash-subtitle{
+  padding-bottom:35px;
+  line-height: 1.0;
+}
+
+.text-fix{
+  line-height: 1.0;
+}
+
+
+  /* unvisited link */
+a:link {
+  color:inherit;
+}
+
+/* visited link */
+a:visited {
+  color:inherit;
+}
+
+/* mouse over link */
+a:hover {
+  color:inherit;
+}
+
+/* selected link */
+a:active {
+  color:inherit;
+}
