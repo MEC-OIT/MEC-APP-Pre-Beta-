@@ -1,3 +1,3 @@
 # MEC-APP
 MEC-App
-Don't reda me. :)
+Don't read me. :)
